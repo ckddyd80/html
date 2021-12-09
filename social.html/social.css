@@ -120,3 +120,34 @@ body {position: relative;}
 #bottom_gnb > div.itam_8.active {background-position: 0px -1360px;}
 #bottom_gnb > div.itam_9.active {background-position: 0px -1440px;}
 #bottom_gnb > div.itam_10.active {background-position: 0px -1520px;}
+
+/* 목록 */
+
+#detail_list {
+    overflow: hidden;
+    padding: 10px;
+    background: #3b414d;
+    padding-bottom: 15px;
+}
+
+#detail_list . ul {
+    float: left;
+    width: 192px;
+}
+
+#detail_list > ul > li {
+    height: 13px;
+    margin-top: 5px;
+    padding: 3px 5px;
+    color: #f3f3f3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#detail_list > ul > li.header {padding-left: 15px;}
+
+#detail_list > ul > li.hedder > p {
+    font-weight: bold;
+    color: #48c5ff;
+}
