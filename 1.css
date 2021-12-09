@@ -1,0 +1,24 @@
+
+
+
+<title>changhae</title>
+
+<!-- 초기화 -->
+* { margin: 0; padding: 0; }
+body { font-family: Verdana, Geneva, Tahoma, sans-serif; }
+li { list-style: none; }
+a { text-decoration: none; }
+img { border: 0; }
+
+<!-- 헤더 -->
+#main_header {
+    width: 960px;
+    margin: 0 auto;
+    height: 160px;
+}
+
+<!-- 네비게이트 -->
+
+<!-- 콘텐츠 -->
+
+<!-- 푸터 -->
